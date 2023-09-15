@@ -11,7 +11,7 @@ I'm an **Aspiring Software Developer** with a strong passion for **Software Engi
 
 * **Programming Languages**: TypeScript, JavaScript, Python, SQL, Java, C, C++, Bash, HTML5, CSS3
 * **Libraries & Frameworks**: Next.js, React, Tailwind, Bootstrap, Jest, Flask, Pandas, Selenium, Scikit-learn
-* **Developer Tools**: Git, GitHub Actions, Storybook, Figma, Docker, Anaconda, Jupyter Notebook, RESTful APIs
+* **Developer Tools**: AWS, Git, GitHub Actions, Storybook, Figma, Docker, Jupyter Notebook, RESTful APIs
 * **Spoken Languages**: English, Spanish
 
 <!--
