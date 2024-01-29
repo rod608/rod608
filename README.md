@@ -4,7 +4,7 @@ I'm an **Aspiring Software Developer** with a strong passion for **Software Engi
 
 🎓 I'm pursuing a **BSc in Computer Science** (expected December 2024) at the **New Jersey Institute of Technology** and I've recently graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
 
-🏢 I am currently working as a **Software Engineer Co-Op Associate** at **Prudential Financial**, where I'm developing **Python**-based automated solutions. Previously, I worked as a **Software Engineer Intern** at **JPMorgan Chase & Co.**, where my team and I **halved the initial render time** of a client-facing **React Web Application that serves 1 million monthly users** by utilizing **Next.js’s** general optimizations & its different rendering techniques. The process started with refactoring in-house *React Components* and *Hooks* and testing them via *Storybook*, and *Jest*/*Cypress* Tests. We created and *Cloud-deployed* one *React* and several *Next.js Web Applications* in order to compare performance after introducing different rendering techniques.
+🏢 I am currently working as a **Software Engineer Co-Op Associate** at **Prudential Financial**, where I'm developing **Python**-based automated solutions. Previously, I worked as a **Software Engineer Intern** at **JPMorgan Chase & Co.**, where my team and I **halved the initial render time** of a client-facing **React Web Application that serves 1 million monthly users** by utilizing **Next.js’s** general optimizations & its different rendering techniques. Nice to meet you!
 
 
 ## 🧠 Skills & Expertise
