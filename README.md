@@ -6,7 +6,7 @@ I'm an **Aspiring Software Developer** with a strong passion for **Frontend and 
 
 👨‍💻 I am currently working as a **Software Engineer Co-Op** at **HubSpot**, where I’m focused on refactoring legacy components using **Redux** and building tests with **React Testing Library** and **Selenium** to improve application quality. Previously, I was a **Software Engineer Intern** at **JPMorgan Chase**, where I led React modernization projects and created a React learning resource for my team. During an earlier internship at JPMorgan Chase, my team and I halved the initial render time of a client-facing React Web Application that serves 1 million monthly users by leveraging **Next.js** optimizations and advanced rendering techniques.
 
-## 🧠 Skills & Expertise
+## ⌨️ Skills & Expertise
 
 * **Programming Languages**: TypeScript, JavaScript, Python, SQL, Java, C, C++, Bash, HTML5, CSS3, Sass
 * **Libraries & Frameworks**: Next.js, React, Redux, Tailwind, Bootstrap, Jest, Flask, Pandas, Selenium, Scikit-learn
