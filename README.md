@@ -9,7 +9,7 @@ I'm an **Aspiring Software Developer** with a strong passion for **Frontend and 
 ## ⌨️ Skills & Expertise
 
 * **Programming Languages**: TypeScript, JavaScript, Python, SQL, Java, C, C++, Bash, HTML5, CSS3, Sass
-* **Libraries & Frameworks**: Next.js, React, Redux, Tailwind, Bootstrap, Jest, Flask, Pandas, Selenium, Scikit-learn
+* **Libraries & Frameworks**: Next.js, React, Redux, Tailwind, Bootstrap, Jest, Flask, Pandas, Selenium
 * **Developer Tools**: AWS, Git, GitHub Actions, Storybook, Figma, Docker, MongoDB, RESTful APIs
 * **Spoken Languages**: English, Spanish
 
