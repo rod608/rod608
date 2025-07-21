@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rodney Nuñez! 🇩🇴
 
-I'm an **Aspiring Software Developer** with a strong passion for **Frontend and Full-stack Engineering**, **Web Development**, **Python**, and **Cloud Computing**.
+I'm a **Software Engineer** with a strong passion for **Frontend and Full-stack Engineering**, **Web Development**, **Python**, and **AI**.
 
 🎓 I'm pursuing a **Bachelor of Science in Computer Science** (expected May 2025) at the **New Jersey Institute of Technology** and I'm actively involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. Recently, I graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
 
