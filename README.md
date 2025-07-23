@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rodney Nuñez! 🇩🇴
 
-I'm a **Software Engineer** with a strong passion for **Frontend and Full-stack Engineering**, **Web Development**, **Python**, and **AI**.
+I'm a **Software Engineer** @ **HubSpot** with a strong passion for **Frontend/Full-stack Engineering**, **Web Development**, and **AI**.
 
-🎓 I'm pursuing a **Bachelor of Science in Computer Science** (expected May 2025) at the **New Jersey Institute of Technology** and I'm actively involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. Recently, I graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
+🎓 I've graduated with a **Bachelor of Science in Computer Science** (2025) at the **New Jersey Institute of Technology**. where I was involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. I also graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
 
-👨‍💻 I am currently working as a **Software Engineer Co-Op** at **HubSpot**, where I’m focused on refactoring legacy components using **Redux** and building tests with **React Testing Library** and **Selenium** to improve application quality. Previously, I was a **Software Engineer Intern** at **JPMorgan Chase**, where I led React modernization projects and created a React learning resource for my team. During an earlier internship at JPMorgan Chase, my team and I halved the initial render time of a client-facing React Web Application that serves 1 million monthly users by leveraging **Next.js** optimizations and advanced rendering techniques.
+👨‍💻 At my previous **Software Engineer Co-Op** with **HubSpot**, I focused on refactoring legacy **React** components using **Redux** and building tests with **React Testing Library** + **Selenium** to improve application quality. I was also previously a **Software Engineer Intern** at **JPMorgan Chase**, where I led React modernization projects and created a React learning resource for my team. During an earlier internship at JPMorgan Chase, my intern team and I halved the initial render time of a client-facing React Web Application that serves 1 million monthly users by leveraging **Next.js** optimizations and advanced rendering techniques.
 
 ## ⌨️ Skills & Expertise
 
