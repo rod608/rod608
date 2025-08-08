@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** @ **HubSpot** with a strong passion for **Frontend/Full-stack Engineering**, **Web Development**, and **AI**.
 
-🎓 I've graduated with a **Bachelor of Science in Computer Science** (2025) at the **New Jersey Institute of Technology**. where I was involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. I also graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
+🎓 I've graduated with a **Bachelor of Science in Computer Science** (Aug. 2025) at the **New Jersey Institute of Technology**. where I was involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. I also graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
 
 👨‍💻 At my previous **Software Engineer Co-Op** with **HubSpot**, I focused on refactoring legacy **React** components using **Redux** and building tests with **React Testing Library** + **Selenium** to improve application quality. I was also previously a **Software Engineer Intern** at **JPMorgan Chase**, where I led React modernization projects and created a React learning resource for my team. During an earlier internship at JPMorgan Chase, my intern team and I halved the initial render time of a client-facing React Web Application that serves 1 million monthly users by leveraging **Next.js** optimizations and advanced rendering techniques.
 
